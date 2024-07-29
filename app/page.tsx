@@ -1,5 +1,12 @@
+/**
+ * sever component(Server-side rendering) by default 
+ * ( no interactivity )
+ * 
+ * "use client " => used to make 
+ * clinet componet 
+ */
+
 import { Button } from "@/components/ui/button";
-import Image from "next/image";
 
 export default function Home() {
   return (
